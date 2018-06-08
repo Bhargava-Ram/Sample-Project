@@ -10,7 +10,7 @@ group :development, :test do
 	gem "mysql2"
 	#gem 'taps'
 end
-
+#This is my sample project
 
 gem 'rails-observers'
 gem 'will_paginate'
